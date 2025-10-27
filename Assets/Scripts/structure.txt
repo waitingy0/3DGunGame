@@ -1,0 +1,63 @@
+卷 D 的文件夹 PATH 列表
+卷序列号为 24D8-4C13
+D:.
+│  CameraFollow.cs
+│  CameraFollow.cs.meta
+│  EF_destroy.cs
+│  EF_destroy.cs.meta
+│  Enemy.meta
+│  Loading.cs
+│  Loading.cs.meta
+│  Managers.meta
+│  Player.meta
+│  ScoreList.cs
+│  ScoreList.cs.meta
+│  startbutton.cs
+│  startbutton.cs.meta
+│  structure.txt
+│  Weapon.meta
+│  
+├─Enemy
+│      EnemyAttack.cs
+│      EnemyAttack.cs.meta
+│      EnemyCreate.cs
+│      EnemyCreate.cs.meta
+│      EnemyHealth.cs
+│      EnemyHealth.cs.meta
+│      EnemyMovement.cs
+│      EnemyMovement.cs.meta
+│      
+├─Managers
+│      EnemyManager.cs
+│      EnemyManager.cs.meta
+│      Fade.cs
+│      Fade.cs.meta
+│      GameManager.cs
+│      GameManager.cs.meta
+│      GameOverManager.cs
+│      GameOverManager.cs.meta
+│      NetClient.cs
+│      NetClient.cs.meta
+│      PlaySceneManager.cs
+│      PlaySceneManager.cs.meta
+│      resolution.cs
+│      resolution.cs.meta
+│      ScoreManager.cs
+│      ScoreManager.cs.meta
+│      
+├─Player
+│      PlayerHealth.cs
+│      PlayerHealth.cs.meta
+│      PlayerMovement.cs
+│      PlayerMovement.cs.meta
+│      PlayerShooting.cs
+│      PlayerShooting.cs.meta
+│      
+└─Weapon
+        Bomb.cs
+        Bomb.cs.meta
+        BombUI.cs
+        BombUI.cs.meta
+        Boom.cs
+        Boom.cs.meta
+        

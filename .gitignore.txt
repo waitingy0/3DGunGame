@@ -1,0 +1,42 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ===================================== #
+# Visual Studio / VSCode specific files #
+# ===================================== #
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+Thumbs.db
+
+# ============ #
+# Other builds #
+# ============ #
+ExportedObj/
+*.apk
+*.aab
+*.app
+*.exe
+*.dll
+*.pdb
+*.mdb
